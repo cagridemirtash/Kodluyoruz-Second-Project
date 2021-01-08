@@ -1,0 +1,42 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@700&display=swap");
+header {
+  font-family: Poppins, sans-serif;
+}
+body {
+  background: url(/img/combine.png) no-repeat center fixed;
+  background-size: cover;
+}
+#hopewell {
+  font-family: "Source Sans Pro", sans-serif;
+  font-weight: bold;
+  font-size: 85px;
+}
+#canada {
+  font-family: Poppins, sans-serif;
+  font-weight: 500;
+  font-size: 28px;
+}
+#hopewell-explain {
+  font-family: Poppins, sans-serif;
+  font-size: 25px !important;
+}
+#footer-text {
+  font-family: Poppins, sans-serif;
+}
+#view {
+  border-radius: 25px;
+  margin-top: 3rem;
+}
+#lorem1 {
+  font-family: Poppins, sans-serif;
+  font-size: 89px;
+}
+#lorem2 {
+  font-family: Poppins, sans-serif;
+  font-size: 68px;
+}
+#lorem3 {
+  font-family: Poppins, sans-serif;
+  font-size: 43px;
+}
